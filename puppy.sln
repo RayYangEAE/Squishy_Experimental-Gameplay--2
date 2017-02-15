@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "puppy", "Assembly-CSharp.csproj", "{5DEF5595-BB64-E725-7F61-4170C96CF11C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DEF5595-BB64-E725-7F61-4170C96CF11C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DEF5595-BB64-E725-7F61-4170C96CF11C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DEF5595-BB64-E725-7F61-4170C96CF11C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DEF5595-BB64-E725-7F61-4170C96CF11C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
